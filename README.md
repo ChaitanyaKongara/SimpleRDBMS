@@ -21,7 +21,7 @@ make clean && make
 
 ## To run
 
-Post compilation, an executable names ```server``` will be created in the ```src``` directory
+Post compilation, an executable named ```server``` will be created in the ```src``` directory
 ```
 ./server
 ```
@@ -31,8 +31,8 @@ Post compilation, an executable names ```server``` will be created in the ```src
 
 ---
 
-### Implemented the RDBMS from [SimpleRA](https://github.com/SimpleRA/SimpleRA) public Template.
+### Implemented the RDBMS from [SimpleRA](https://github.com/SimpleRA/SimpleRA) public template.
 
 <br>
 
-Added Join, Sort, GroupBy functionalities and also handles Matrices and compresses in the case of a sparse matrix. 
+Added **Join**, **Sort**, **GroupBy** functionalities and also handles **Matrices** and **compresses** in the case of a sparse matrix. 
